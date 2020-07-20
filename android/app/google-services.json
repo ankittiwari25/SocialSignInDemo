@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509203204609",
+    "firebase_url": "https://social-sign-in-demo-a319c.firebaseio.com",
+    "project_id": "social-sign-in-demo-a319c",
+    "storage_bucket": "social-sign-in-demo-a319c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509203204609:android:72464c75f4088ed06dce00",
+        "android_client_info": {
+          "package_name": "com.elsner.gmailandfacebooksigndemos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509203204609-d0pbnkg6vqoo9212quelq363i72kipua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elsner.gmailandfacebooksigndemos",
+            "certificate_hash": "902cc74b6a5692e3fa79026ef429a8a7f2d47888"
+          }
+        },
+        {
+          "client_id": "509203204609-unog7l3pbfjhkunnlga8lqb7bor695ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJRg_yEYWjcAzahW8COSunYpDBwFHDkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509203204609-unog7l3pbfjhkunnlga8lqb7bor695ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
